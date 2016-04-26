@@ -1,19 +1,19 @@
 #BlueJ class context
 comment0.params=
 comment0.target=ImageViewer()
-comment0.text=\n\ Create\ an\ ImageViewer\ show\ it\ on\ screen.\n
+comment0.text=\r\n\ Create\ an\ ImageViewer\ show\ it\ on\ screen.\r\n
 comment1.params=
 comment1.target=void\ openFile()
-comment1.text=\n\ Open\ function\:\ open\ a\ file\ chooser\ to\ select\ a\ new\ image\ file.\n
+comment1.text=\r\n\ Open\ function\:\ open\ a\ file\ chooser\ to\ select\ a\ new\ image\ file.\r\n
 comment2.params=
 comment2.target=void\ quit()
-comment2.text=\n\ Quit\ function\:\ quit\ the\ application.\n
+comment2.text=\r\n\ Quit\ function\:\ quit\ the\ application.\r\n
 comment3.params=
 comment3.target=void\ makeFrame()
-comment3.text=\n\ Create\ the\ Swing\ frame\ and\ its\ content.\n
+comment3.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
 comment4.params=frame
 comment4.target=void\ makeMenuBar(javax.swing.JFrame)
-comment4.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\n
+comment4.text=\r\n\ Create\ the\ main\ frame's\ menu\ bar.\r\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\r\n
 comment5.params=e
 comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
 comment6.params=e
